@@ -16,7 +16,7 @@ const developer = {
     location: "Lalitpur, Nepal 🇳🇵",
     role: "Full-Stack Developer",
     languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    currentFocus: "React, Next & Node.js Development",
+    currentFocus: "React JS, Next JS, Node.js Development + AI/ML",
     learning: ["Next.js", "Cloud Architecture", "DevOps", "Data Science"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
