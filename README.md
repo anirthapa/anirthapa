@@ -51,23 +51,23 @@ const developer = {
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aneer-thapa1&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneer-thapa1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anirthapa&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirthapa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 ## 🔥 Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirthapa&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" />
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=aneer-thapa1&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=anirthapa&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aneer-thapa1&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirthapa&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true&area=true" />
 </div>
 
 ## 🤝 Let's Connect
