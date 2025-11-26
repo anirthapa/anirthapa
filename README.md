@@ -14,7 +14,7 @@
 const developer = {
     name: "Anir Jung Thapa",
     location: "Lalitpur, Nepal 🇳🇵",
-    role: "Full-Stack Developer",
+    role: "Junior Full-Stack Developer",
     languages: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
     currentFocus: "React JS, Next JS, Node.js Development + AI/ML",
     learning: ["Next.js", "Cloud Architecture", "DevOps", "Data Science"],
