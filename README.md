@@ -84,6 +84,6 @@ const developer = {
 
 ---
 
-**💭 "Clean code always looks like it was written by someone who cares."**
+**💭 "I don’t need therapy. I just need my code to run."**
 
 </div>
