@@ -17,7 +17,7 @@ const developer = {
     role: "Junior Full-Stack Developer",
     languages: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
     currentFocus: "React JS, Next JS, Node JS Development + AI/ML",
-    learning: ["Next.js", "Cloud Architecture", "DevOps", "Data Science"],
+    learning: ["Software Development", "Cloud Architecture", "DevOps", "Data Science"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
