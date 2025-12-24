@@ -72,7 +72,7 @@ const developer = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirthapa&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true&area=true" />
 </div>
 
-## 🤝 Let's Connect to build something incredible
+## 🤝 Let's Connect
 
 <div align="center">
 
