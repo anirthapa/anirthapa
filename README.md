@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:21262D,100:30363D&height=120&section=header&text=Anir%20Jung%20Thapa&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&descAlignY=55&descSize=16"/>
 
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+👋;Full-Stack+Developer;Building+digital+solutions;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+👋;Full-Stack+Developer;Always+learning+something+new)](https://git.io/typing-svg)
 
 </div>
 
