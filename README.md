@@ -64,7 +64,7 @@ const developer = {
 
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/nepal/anirthapa.svg)](https://user-badge.committers.top/nepal/anirthapa)
+[![committers.top badge](https://anirthapa.committers.top/nepal/anirthapa.svg)](https://anirthapa.committers.top/nepal/anirthapa)
 
 ## 📈 Activity Graph
 
