@@ -66,8 +66,10 @@ const developer = {
 
 ## 🏆 GitHub Contribution Ranking
 
-![GitHub Rank Nepal](https://img.shields.io/badge/GitHub%20Ranked-Nepal-success?style=for-the-badge)
+[![committers.top badge](https://user-badge.committers.top/nepal/anirthapa.svg)](https://committers.top/nepal#anirthapa)
 
+📊 Ranked among the most active GitHub users in Nepal  
+🔗 https://committers.top/nepal#anirthapa
 
 
 ## 📈 Activity Graph
