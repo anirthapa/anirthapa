@@ -64,7 +64,10 @@ const developer = {
 
 </div>
 
-[![committers.top badge](https://anirthapa.committers.top/nepal/anirthapa.svg)](https://anirthapa.committers.top/nepal/anirthapa)
+[![Committers Top Nepal](https://committers.top/badge/anirthapa)](https://committers.top/nepal#anirthapa)
+
+📊 Ranked among top GitHub contributors in Nepal  
+🔗 https://committers.top/nepal#anirthapa
 
 ## 📈 Activity Graph
 
