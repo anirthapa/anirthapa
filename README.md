@@ -16,8 +16,8 @@ const developer = {
     location: "Lalitpur, Nepal 🇳🇵",
     role: "Junior Frontend Developer",
     languages: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
-    currentFocus: "React JS, Next JS, Node JS Development + AI/ML",
-    learning: ["Software Development", "Cloud Architecture", "DevOps", "Data Science"],
+    currentFocus: "React JS, Next JS, Node JS Development, AI/ML",
+    learning: ["Software Development", "DevOps", "Data Science"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
