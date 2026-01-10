@@ -84,7 +84,7 @@ const developer = {
 
 <img src="https://komarev.com/ghpvc/?username=aneer-thapa1&label=Profile%20Views&color=58A6FF&style=flat-square" />
 
----
+
 
 **💭 "I don’t need therapy. I just need my code to run."**
 
