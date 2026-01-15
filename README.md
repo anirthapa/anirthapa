@@ -17,7 +17,7 @@ const developer = {
     role: "Junior Frontend Developer",
     languages: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
     currentFocus: "React JS, Next JS, Node JS Development, AI/ML",
-    learning: ["Software Development", "DevOps", "Data Science"],
+    learning: ["Software Development", "Data Science"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
