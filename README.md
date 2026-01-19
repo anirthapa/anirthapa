@@ -74,7 +74,7 @@ const developer = {
 </div>
 
 ## 🤝 Let's Connect
-
+ 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-21262D?style=for-the-badge&logoColor=white&color=58A6FF)](https://anirjungthapa.com.np)
