@@ -85,6 +85,6 @@ const developer = {
 
 
 
-**💭 "I don’t need therapy. I just need my code to run."**
+**💭"I don’t need therapy. I just need my code to run."**
 
 </div>
