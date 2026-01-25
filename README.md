@@ -65,7 +65,7 @@ const developer = {
 
 ## 🏆 GitHub Contribution Ranking
 
-[![committers.top badge](https://user-badge.committers.top/nepal/anirthapa.svg)](https://committers.top/nepal#anirthapa)
+[![committers.top badge](https://user-badge.committers.top/nepal/anirthapa.svg)](https://committers.top/nepal#anirthapa) 
 
 ## 📈 Activity Graph
 
