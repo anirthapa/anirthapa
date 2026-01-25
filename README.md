@@ -12,7 +12,7 @@
 
 ```typescript
 const developer = {
-    name: "Anir Jung Thapa",
+    name: "Anir Jung Thapa", 
     location: "Lalitpur, Nepal 🇳🇵",
     role: "Junior Frontend Developer",
     languages: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
