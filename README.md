@@ -21,7 +21,7 @@ const developer = {
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
-
+ 
 ## 🛠️ Tech Stack
 
 **Frontend**
