@@ -50,7 +50,7 @@ const developer = {
 <div align="center">
 
 ## 📊 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anirthapa?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anirthapa?cardType=level-alternate&theme=dark&fontFamily=Poppins&preferLogin=false)](https://git.io/awesome-stats-card)
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirthapa&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 
 ## 🔥 Streak Stats
