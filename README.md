@@ -9,7 +9,7 @@
 </div>
  
 ## 👨‍💻 About Me 
-
+ 
 ```typescript
 const developer = {
     name: "Anir Jung Thapa",  
